@@ -1,0 +1,9 @@
+{
+  "id": "TEST-001",
+  "timestamp": "2026-10-05T12:00:00+07:00",
+  "donor": "TEST",
+  "soundboard": "PUSH-UP",
+  "soundId": "7a4157be-0667-4522-9a69-fb275a5121e1",
+  "nominal": 10000,
+  "status": "TEST"
+}
